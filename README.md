@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" />
+</div>  
+
 # 💫 About Me:
  Turning Ideas into Interactive Web Experiences<br><br>A passionate frontend developer from **India** 🇮🇳<br><br>🧠 Currently sharpening my skills through freelance projects  <br>🛠️ Working with **React.js**, **Tailwind CSS**, and **GSAP**  <br>🎯 Focused on building fast, responsive, and animated UIs  <br>🎨 Love UI/UX design, micro-interactions, and clean code  <br>🌐 Exploring more about APIs, Figma-to-code workflows & performance<br><br>> ✨ Fun fact: I write code that *feels like design* and designs that *code themselves* 😄<br><br><br>
 
