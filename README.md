@@ -39,6 +39,12 @@ I'm a frontend developer from **India** 🇮🇳, focused on building fast, resp
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
 
+**Data & AI:**  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ED673D.svg?style=flat&logo=n8n&logoColor=white)
+
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -58,11 +64,6 @@ I'm a frontend developer from **India** 🇮🇳, focused on building fast, resp
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
-**Data & AI:**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ED673D.svg?style=flat&logo=n8n&logoColor=white)
 
 
 ## 📊 GitHub Stats
