@@ -62,6 +62,7 @@ I'm a frontend developer from **India** 🇮🇳, focused on building fast, resp
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ED673D.svg?style=flat&logo=n8n&logoColor=white)
 
 
 ## 📊 GitHub Stats
