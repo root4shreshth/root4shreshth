@@ -20,7 +20,6 @@ I'm a frontend developer from <b>India</b> 🇮🇳, focused on building fast, r
 </div>
 
 ---
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
