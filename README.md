@@ -18,7 +18,6 @@ I'm a frontend developer from <b>India</b> 🇮🇳, focused on building fast, r
 <em>✨ Fun fact: I write code that <b>feels like design</b> and designs that <b>code themselves</b> 😄</em>
 
 </div>
-
 ---
 <h2 align="center">🌐 Connect with Me</h2>
 
