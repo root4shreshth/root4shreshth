@@ -3,66 +3,73 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,50:A855F7,100:F72585&height=140&section=header&text=SHRESHTH&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20//%20Building%20interfaces%20from%20the%20future&descAlignY=62&descSize=16" width="100%"/>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shreshth+%F0%9F%91%8B;Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+turn+ideas+into+interactive+experiences;React+%7C+Tailwind+%7C+GSAP+%7C+Three.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+developer.exe+...;%3E+React+%7C+Tailwind+%7C+GSAP+%7C+Three.js;%3E+turning+ideas+into+living+interfaces;%3E+code+that+feels+like+design+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
-
-<h1 align="center">💫 About Me</h1>
 
 <div align="center">
 
-I'm a **frontend developer** from <b>India</b> 🇮🇳 who builds fast, responsive, and animated UIs.  
-I write code that **feels like design**, and designs that **code themselves** ✨
+### `> whoami`
 
 </div>
 
-<br/>
-
 <div align="center">
 
-```javascript
-const shreshth = {
-  role:       "Frontend Developer",
-  location:   "India 🇮🇳",
-  stack:      ["React.js", "Tailwind CSS", "GSAP", "Three.js"],
-  currently:  "Sharpening skills through freelance projects",
-  loves:      ["UI/UX", "micro-interactions", "clean code"],
-  exploring:  ["APIs", "Figma-to-code", "web performance"],
-  motto:      "Make it fast. Make it feel alive."
-};
+```python
+class Shreshth:
+    def __init__(self):
+        self.role      = "Frontend Engineer"
+        self.location  = "India 🇮🇳"
+        self.stack     = ["React.js", "Tailwind", "GSAP", "Three.js"]
+        self.focus     = ["UI/UX", "micro-interactions", "motion", "performance"]
+        self.exploring = ["AI tooling", "Figma-to-code", "creative coding"]
+        self.status    = "online // shipping pixels"
+
+    def philosophy(self):
+        return "Make it fast. Make it feel alive."
 ```
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49ab3be8-8df6-4b9d-8d4e-5cf9c5ceac4f" width="100%" />
-</div>
-
-<h2 align="center">🌐 Connect with Me</h2>
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hype4shreshth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hype4shreshth)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rootshreshth)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreshth1919@gmail.com)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND-A855F7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-F72585?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
+
+### `> connect --me`
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/hype4shreshth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/hype4shreshth)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0D1117)](https://x.com/Rootshreshth)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:shreshth1919@gmail.com)
+
+</div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<div align="center">
+
+### `> stack --all`
 
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -103,78 +110,79 @@ const shreshth = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
-
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=root4shreshth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4shreshth&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
+### `> stats --live`
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=root4shreshth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=C9D1D9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4shreshth&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=root4shreshth&theme=tokyonight&hide_border=false)
-
-</div>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
-<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg)
+<img src="https://streak-stats.demolab.com?user=root4shreshth&hide_border=true&background=0D1117&stroke=A855F7&ring=22D3EE&fire=F72585&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-</div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+### `> activity --graph`
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=root4shreshth&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
-
-</div>
-
-<h2 align="center">✍️ Dev Quote</h2>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=root4shreshth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0D1117&color=22D3EE&line=A855F7&point=F72585&area=true&hide_border=true" width="100%" />
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+### `> snake --eat-contributions 🐍`
+
+<img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <div align="center">
+
+### `> trophies`
+
+<img src="https://github-profile-trophy.vercel.app/?username=root4shreshth&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+
+</div>
+
+<div align="center">
+
+### `> quote --random`
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+### `> top --repos`
+
+<img src="https://github-contributor-stats.vercel.app/api?username=root4shreshth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:F72585,50:A855F7,100:22D3EE&height=120&section=footer&text=thanks%20for%20visiting&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=root4shreshth&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" />
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=root4shreshth&icon=2&color=4" />
   </a>
 </div>
 
-<!-- Created with ❤️ -->
+<!-- Created with ❤️ + neon -->
