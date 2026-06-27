@@ -18,6 +18,24 @@
 
 <div align="center">
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0F1116&color=22D3EE&line=A855F7&point=F72585&area=true&area_color=A855F7&hide_border=true&custom_title=" width="100%" />
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_snake.svg" width="600" /></div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_connect.svg" width="600" /></div>
+
+<div align="center">
+
 ```python
 class Shreshth:
     def __init__(self):
@@ -50,23 +68,7 @@ class Shreshth:
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=root4shreshth&show_icons=true&hide_border=true&bg_color=0F1116&title_color=22D3EE&icon_color=A855F7&text_color=A9B4C2&count_private=true&hide_title=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4shreshth&layout=compact&hide_border=true&langs_count=6&bg_color=0F1116&title_color=22D3EE&text_color=A9B4C2&hide_title=true" />
 
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0F1116&color=22D3EE&line=A855F7&point=F72585&area=true&area_color=A855F7&hide_border=true&custom_title=" width="100%" />
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_snake.svg" width="600" /></div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_connect.svg" width="600" /></div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1116?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/hype4shreshth)
 [![X](https://img.shields.io/badge/X-0F1116?style=flat-square&logo=X&logoColor=A855F7)](https://x.com/Rootshreshth)
