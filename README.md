@@ -10,15 +10,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&duration=2600&pause=900&color=8B97A7&center=true&vCenter=true&width=720&height=36&lines=%3E+React+%7C+Tailwind+%7C+GSAP+%7C+Three.js;%3E+code+that+feels+like+design" alt="Typing SVG" />
   </a>
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_whoami.svg" width="600" /></div>
-
-<div align="center">
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0F1116&color=22D3EE&line=A855F7&point=F72585&area=true&area_color=A855F7&hide_border=true&custom_title=" width="100%" />
