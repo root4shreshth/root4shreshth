@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/hero.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/hero.svg" width="100%" />
 </div>
 
 <div align="center">
@@ -12,9 +12,9 @@
   </a>
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_whoami.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_whoami.svg" width="620" /></div>
 
 <div align="center">
 
@@ -34,9 +34,9 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_connect.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_connect.svg" width="620" /></div>
 
 <div align="center">
 
@@ -47,9 +47,9 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_stack.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_stack.svg" width="620" /></div>
 
 <div align="center">
 
@@ -91,9 +91,9 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_stats.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_stats.svg" width="620" /></div>
 
 <div align="center">
 
@@ -106,7 +106,7 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_activity.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_activity.svg" width="620" /></div>
 
 <div align="center">
 
@@ -114,7 +114,7 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_snake.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_snake.svg" width="620" /></div>
 
 <div align="center">
 
@@ -122,9 +122,9 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_trophies.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_trophies.svg" width="620" /></div>
 
 <div align="center">
 
@@ -132,7 +132,7 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_quote.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_quote.svg" width="620" /></div>
 
 <div align="center">
 
@@ -140,7 +140,7 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/h_repos.svg" width="620" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_repos.svg" width="620" /></div>
 
 <div align="center">
 
@@ -148,10 +148,10 @@ class Shreshth:
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=root4shreshth&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS&labelColor=0F1116" />
 </div>
 
-<!-- neumorphic UI · custom SVG kit in /assets -->
+<!-- neumorphic UI · custom SVG kit -->
