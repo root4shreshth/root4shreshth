@@ -10,20 +10,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&duration=2600&pause=900&color=8B97A7&center=true&vCenter=true&width=720&height=36&lines=%3E+React+%7C+Tailwind+%7C+GSAP+%7C+Three.js;%3E+code+that+feels+like+design" alt="Typing SVG" />
   </a>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0F1116&color=22D3EE&line=A855F7&point=F72585&area=true&area_color=A855F7&hide_border=true&custom_title=" width="100%" />
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_snake.svg" width="600" /></div>
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_connect.svg" width="600" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_whoami.svg" width="600" /></div>
 
 <div align="center">
 
@@ -44,22 +35,30 @@ class Shreshth:
 
 <div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_stack.svg" width="600" /></div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/stack_grid.svg" width="100%" />
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/h_stats.svg" width="600" /></div>
-
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=root4shreshth&show_icons=true&hide_border=true&bg_color=0F1116&title_color=22D3EE&icon_color=A855F7&text_color=A9B4C2&count_private=true&hide_title=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4shreshth&layout=compact&hide_border=true&langs_count=6&bg_color=0F1116&title_color=22D3EE&text_color=A9B4C2&hide_title=true" />
 
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0F1116&color=22D3EE&line=A855F7&point=F72585&area=true&area_color=A855F7&hide_border=true&custom_title=" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1116?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/hype4shreshth)
 [![X](https://img.shields.io/badge/X-0F1116?style=flat-square&logo=X&logoColor=A855F7)](https://x.com/Rootshreshth)
@@ -72,4 +71,4 @@ class Shreshth:
 
 </div>
 
-<!-- neumorphic UI · custom SVG kit · designed, not assembled -->
+<!-- neumorphic UI · custom SVG kit -->
