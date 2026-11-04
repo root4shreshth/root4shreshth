@@ -1,55 +1,75 @@
+<!--
+  This README is one inference run: a prompt comes in, passes through
+  attention and tool calls, emits outputs, reports telemetry, and hands off.
+  Edit build/config.py, not the SVGs. The "profile" workflow re-renders daily.
+-->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%" />
+  <img src="assets/hero.svg" width="100%" alt="SHRESHTH, AI Product Engineer. I build AI products end to end: LLMs, agentic systems and real-time voice." />
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/hero.svg" width="100%" />
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&duration=2600&pause=900&color=8B97A7&center=true&vCenter=true&width=720&height=36&lines=%3E+LLMs+%7C+agents+%7C+real-time+voice;%3E+shipping+production-grade+AI+products" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4shreshth&bg_color=0F1116&color=22D3EE&line=A855F7&point=F72585&area=true&area_color=A855F7&hide_border=true&custom_title=" width="100%" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
-<div align="center">
+
+<br/>
+
+<img src="assets/stage_01.svg" width="100%" alt="01 System prompt" />
 
 ```python
-class Shreshth:
-    def __init__(self):
-        self.role     = "AI Product Engineer"
-        self.location = "India 🇮🇳"
-        self.builds   = ["LLM products", "agentic systems", "voice AI"]
-        self.owns     = "0 -> 1 : design -> backend -> AI -> deploy"
-        self.stack    = ["Python", "TypeScript", "FastAPI", "Next.js"]
+class Shreshth(Engineer):
+    role     = "AI Product Engineer"
+    location = "India 🇮🇳"
+    builds   = ["LLM products", "agentic systems", "voice AI"]
+    owns     = "0 → 1 : design → backend → AI → deploy"
+    stack    = ["Python", "TypeScript", "FastAPI", "Next.js"]
 
-    def philosophy(self):
+    def philosophy(self) -> str:
         return "Ship production-grade. Reliable, observable, real."
 ```
 
-</div>
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
+<img src="assets/stage_02.svg" width="100%" alt="02 Attention" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/stack_grid.svg" width="100%" />
+  <img src="assets/attention.svg" width="100%" alt="Attention heatmap of focus areas against tools" />
 </div>
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
+
+<img src="assets/stage_03.svg" width="100%" alt="03 Tool calls" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/projects.svg" width="100%" />
+  <img src="assets/toolcalls.svg" width="100%" alt="Stack: Python, TypeScript, Next.js, React, FastAPI, Supabase, PyTorch, n8n, Vercel, AWS, Figma" />
 </div>
-<div align="center"><img src="https://raw.githubusercontent.com/root4shreshth/root4shreshth/main/divider.svg" width="100%" /></div>
+
+<img src="assets/stage_04.svg" width="100%" alt="04 Outputs" />
+
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=root4shreshth&show_icons=true&hide_border=true&bg_color=0F1116&title_color=22D3EE&icon_color=A855F7&text_color=A9B4C2&count_private=true&hide_title=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4shreshth&layout=compact&hide_border=true&langs_count=6&bg_color=0F1116&title_color=22D3EE&text_color=A9B4C2&hide_title=true" />
+<!-- outputs:start -->
+<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_0.svg" width="49%" alt="output 0" /></a>
+<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_1.svg" width="49%" alt="output 1" /></a>
+<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_2.svg" width="49%" alt="output 2" /></a>
+<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_3.svg" width="49%" alt="output 3" /></a>
+<!-- outputs:end -->
+</div>
+
+<img src="assets/stage_05.svg" width="100%" alt="05 Telemetry" />
+
+<div align="center">
+  <img src="assets/telemetry.svg" width="100%" alt="Live GitHub metrics: contributions, streaks, pull requests, stars, weekly activity and languages" />
+</div>
+
+<img src="assets/stage_06.svg" width="100%" alt="06 Handoff" />
+
+<div align="center">
+
+```ts
+await shreshth.connect({ channel: "whatever works for you" })
+```
+
+<a href="https://linkedin.com/in/hype4shreshth"><img src="https://img.shields.io/badge/linkedin-hype4shreshth-0A0C11?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=10131A" alt="LinkedIn" /></a>
+<a href="https://x.com/Rootshreshth"><img src="https://img.shields.io/badge/x-Rootshreshth-0A0C11?style=for-the-badge&logo=x&logoColor=A855F7&labelColor=10131A" alt="X" /></a>
+<a href="https://instagram.com/hype4shreshth"><img src="https://img.shields.io/badge/instagram-hype4shreshth-0A0C11?style=for-the-badge&logo=instagram&logoColor=F72585&labelColor=10131A" alt="Instagram" /></a>
+<a href="mailto:hype4shreshth@gmail.com"><img src="https://img.shields.io/badge/email-hype4shreshth@gmail.com-0A0C11?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=10131A" alt="Email" /></a>
+
 <br/><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1116?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/hype4shreshth)
-[![X](https://img.shields.io/badge/X-0F1116?style=flat-square&logo=X&logoColor=A855F7)](https://x.com/Rootshreshth)
-[![Instagram](https://img.shields.io/badge/Instagram-0F1116?style=flat-square&logo=instagram&logoColor=F72585)](https://instagram.com/hype4shreshth)
-[![Email](https://img.shields.io/badge/Email-0F1116?style=flat-square&logo=gmail&logoColor=22D3EE)](mailto:hype4shreshth@gmail.com)
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=root4shreshth&style=flat-square&color=22D3EE&label=profile+views&labelColor=0F1116" />
+
+<img src="assets/footer.svg" width="100%" alt="EOF" />
+
+<img src="https://komarev.com/ghpvc/?username=root4shreshth&style=flat-square&color=0A0C11&label=requests+served&labelColor=10131A" alt="profile views" />
+
 </div>
-<!-- neumorphic UI · custom SVG kit -->
