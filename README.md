@@ -40,9 +40,9 @@ class Shreshth(Engineer):
 
 <div align="center">
 <!-- outputs:start -->
-<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_0.svg" width="49%" alt="output 0" /></a>
-<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_1.svg" width="49%" alt="output 1" /></a>
-<a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_2.svg" width="49%" alt="output 2" /></a>
+<a href="https://github.com/root4shreshth/HealioX"><img src="assets/card_0.svg" width="49%" alt="output 0" /></a>
+<a href="https://github.com/root4shreshth/incident-commander"><img src="assets/card_1.svg" width="49%" alt="output 1" /></a>
+<a href="https://github.com/root4shreshth/PaySense-ai"><img src="assets/card_2.svg" width="49%" alt="output 2" /></a>
 <a href="https://github.com/root4shreshth?tab=repositories"><img src="assets/card_3.svg" width="49%" alt="output 3" /></a>
 <!-- outputs:end -->
 </div>
